@@ -108,7 +108,11 @@ a:hover{
 }
 
 .list-socialnetworks i:hover{
-	color: #2c4056
+	color: #2c4056;
+}
+
+.favicon{
+	border-radius: 50%;
 }
 
 /* Custom Design with id*/
@@ -117,4 +121,5 @@ a:hover{
 	padding-top: 0px;
 	margin-top: 140px;	
 }
+
 
